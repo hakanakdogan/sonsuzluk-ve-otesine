@@ -123,39 +123,7 @@ if (localStorage.getItem("score") === null) {
     endScoreText.innerHTML = "0";
 }
 
-// const spawnMeteorP = () => {
 
-
-//     setInterval(() => {
-
-
-//         let x, y;
-//         if (Math.random() < 0.5) {
-//             x = Math.random() < 0.5 ? -50 : cvs.width + 50;
-//             y = Math.random() * cvs.height;
-//         } else {
-//             x = Math.random() * cvs.width;
-//             y = Math.random() < .5 ? -50 : cvs.height + 50
-//         }
-
-
-
-
-
-//         const angle = Math.atan2(rocketY - y, rocketX - x);
-//         const velocity = {
-//             x: Math.cos(angle),
-//             y: Math.sin(angle)
-
-//         }
-
-
-//         meteors.push(new MeteorP(x, y, velocity))
-//     }, 1000)
-
-
-
-// }
 
 const spawnMeteorP = () => {
 
