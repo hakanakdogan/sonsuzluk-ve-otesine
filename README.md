@@ -1,5 +1,5 @@
 # Sonsuzluk ve Ötesine
-Sonsuzluk ve Ötesine sonsuz uzayda size doğru gelen meteorlardan kaçarak olabildiğince yükselmeye çalıştığınız bir retro temalı 2D oyundur. Meteorlar size karşı tehlikeli olmakla kalmayıp kendilerine karşı da tehlike arz ederler. Belki meteorları birbirine çarptırarak yok etmek iyi bir taktik olabilir :). Proje HTML, JavaScript ve CSS yazılım teknolojilerini kullanarak yazılmıştır.
+Sonsuzluk ve Ötesine sonsuz uzayda size doğru gelen meteorlardan kaçarak olabildiğince yükselmeye çalıştığınız bir retro temalı 2D oyundur. Meteorlar size karşı tehlikeli olmakla kalmayıp kendilerine karşı da tehlike arz ederler. Belki meteorları birbirine çarptırarak yok etmek iyi bir taktik olabilir :)
 
 ## Sonsuzluk ve Ötesine Oyununu Nasıl Çalıştırırım?
 Sonsuzluk ve Ötesini çalıştırabilmek için iki yol var :
@@ -141,6 +141,11 @@ let meteors = [];
 
         }
        ```
+## Kullanılan Teknolojiler
+   * HTML: Oyunun çalışacağı Web sayfasının iskeleti HTML diliyle yazılmıştır
+   * CSS:  Oyunu oluşturan varlıklara stil eklemek için CSS dili kullanılmıştır
+   * JavaScript: Oyunu oluşturan fonksiyonları belirlemek ve Web sitesiyle etkileşim kurmak için JavaScript programlama dili kullanılmıştır
+
 ## Projeyi Geliştirenler
  * Hakan AKDOĞAN
    * [LinkedIn](https://www.linkedin.com/in/hakan-akdogan/)
