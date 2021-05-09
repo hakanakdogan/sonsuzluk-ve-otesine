@@ -3,7 +3,7 @@ Sonsuzluk ve Ötesine sonsuz uzayda size doğru gelen meteorlardan kaçarak olab
 
 ## Sonsuzluk ve Ötesine Oyununu Nasıl Çalıştırırım?
 Sonsuzluk ve Ötesini çalıştırabilmek için iki yol var :
-* Bu linke girerek oynamaya başlayabilirsiniz: [Sonsuza ve Ötesine](http://sonsuzaveotesine.eu5.org/)
+* Bu linke girerek oynamaya başlayabilirsiniz: [Sonsuzluk ve Ötesine](http://sonsuzaveotesine.eu5.org/)
 * Sağ yukarıda bulunan Code kısmına tıklayarak projeyi ZIP dosyası olarak indirebilir ve index.html dosyasını tarayıcınızda açabilirsiniz.
 
 ## Sonsuzluk ve Ötesine Nasıl Oynanır?
