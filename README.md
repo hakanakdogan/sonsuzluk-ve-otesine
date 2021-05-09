@@ -1,2 +1,2 @@
 # sonsuzluk-ve-otesine
-Bir Hakan AKDOĞAN Oyunu.
+Uzayın derinliklerine doğru engelleri aşarak yol alın.
