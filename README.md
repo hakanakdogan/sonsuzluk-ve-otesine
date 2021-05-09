@@ -6,7 +6,7 @@ Sonsuzluk ve Ötesini oynayabilmek için iki yol var :
 * Bu linke girerek oynamaya başlayabilirsiniz: [Sonsuza ve Ötesine](http://sonsuzaveotesine.eu5.org/)
 * Sağ yukarıda bulunan Code kısmına tıklayarak projeyi ZIP dosyası olarak indirebilir ve index.html dosyasını tarayıcınızda açabilirsiniz.
 
-## Sonsuzluk ve Ötesine Nasıl Oynanır
+## Sonsuzluk ve Ötesine Oyununa Nasıl Ulaşırım?
 
 * Oyun linkini ya da indirdiğiniz projedeki index.html dosyasını tarayıcınızda açtığınızda karışınıza başlangıç ekranı gelir. Oyuna başla tuşuna tıklayarak başlayabilirsiniz.
 ![baslangicekranı](https://user-images.githubusercontent.com/54938929/117588971-9bc6ac00-b12f-11eb-89d7-17db903582f7.png)
