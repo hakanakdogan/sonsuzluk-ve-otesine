@@ -144,5 +144,8 @@ let meteors = [];
 ## Projeyi Geliştirenler
  * Hakan AKDOĞAN
    * [LinkedIn](https://www.linkedin.com/in/hakan-akdogan/)
-  
+
+## Lisans
+    MIT License
+    Copyright (c) 2021 Hakan Akdoğan
  
